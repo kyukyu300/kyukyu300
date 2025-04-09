@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0bb4ff,d0f0ff&height=160&section=header&text=Hello,%20World!&fontSize=45&fontColor=ffffff&fontAlignY=55&fontAlign=middle&animation=fadeInLeft&desc=백엔드%20개발자%20지망생&descAlign=middle&descSize=20&descFont=monospace" />
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0bb4ff&height=200&section=header&text=Hello,%20World!&fontSize=40&fontAlignY=50&fontAlign=middle&animation=fadeIn" />
 
 <h1 align="center"> 🐣 About Me </h1>
 <p align="center"> 
@@ -23,20 +21,17 @@
 </div>
 
 <h1 align="center">📊 GitHub Stats</h1>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kyukyu300&hide=contribs,prs&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyukyu300&layout=compact&theme=tokyonight" />
 </div>
 
 <h1 align="center">🔥 GitHub Streak</h1>
-
-<div align="center">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=kyukyu300&theme=tokyonight" />
-</div>
+</p>
 
 <h1 align="center">🧠 Baekjoon</h1>
-
 <div align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyujin1252" />
 </div>

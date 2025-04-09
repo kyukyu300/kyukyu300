@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0bb4ff&height=120&section=header&text=Hello,%20World!&fontSize=40&fontAlignY=55&fontAlign=middle&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0bb4ff&height=120&section=header&text=Hello,%20World!&fontSize=40&fontAlignY=55&fontAlign=middle&animation=bounce" />
+
 
 <h1 align="center"> 🐣 About Me </h1>
 <p align="center"> 
@@ -29,8 +30,12 @@
 
 <h1 align="center">🔥 GitHub Streak</h1>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyukyu300&theme=blue-green" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyukyu300&theme=tokyonight" />
+</div>
 
+<h1 align="center">🧠 Baekjoon</h1>
 
+<div align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyujin1252" />
+</div>

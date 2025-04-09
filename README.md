@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0bb4ff&height=120&section=header&text=Hello,%20World!&fontSize=40&fontAlignY=55&fontAlign=middle&animation=bounce" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0bb4ff,d0f0ff&height=160&section=header&text=Hello,%20World!&fontSize=45&fontColor=ffffff&fontAlignY=55&fontAlign=middle&animation=fadeInLeft&desc=백엔드%20개발자%20지망생&descAlign=middle&descSize=20&descFont=monospace" />
+
 
 
 <h1 align="center"> 🐣 About Me </h1>
@@ -31,7 +32,7 @@
 <h1 align="center">🔥 GitHub Streak</h1>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyukyu300&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=kyukyu300&theme=tokyonight" />
 </div>
 
 <h1 align="center">🧠 Baekjoon</h1>

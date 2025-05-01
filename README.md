@@ -17,24 +17,24 @@
   
 <h1 align="center">🛠 Tech Stack</h1>
 
-## 💻 Language
+<h2 align="center">💻 Language</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 </div>
 
-## 🧩 Framework & Library
+<h2 align="center"> 🧩 Framework & Library</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
 </div>
 
-## ☁️ Infra & DevOps
+<h2 align="center">☁️ Infra & DevOps</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=Amazon-AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black"/>
 </div>
 
-## 🔧 Tools
+<h2 align="center"> 🔧 Tools</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white"/>

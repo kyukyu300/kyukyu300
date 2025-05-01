@@ -8,18 +8,39 @@
 🎸 밴드, 게임, 그림 그리는 것을 좋아합니다 <br>
 부족하지만 잘 부탁드립니다!
 </p>
-  
-<h1 align="center"> 🛠 Tech Stack </h1>
 
+<h1 align="center">💡 I'm Currently Learning</h1>
+<p align="center">
+  Django를 이용한 프로젝트 및 Python을 꾸준히 공부 중 입니다
+</p>
+
+  
+<h1 align="center">🛠 Tech Stack</h1>
+
+## 💻 Language
 <div align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=Amazon-AWS&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 </div>
+
+## 🧩 Framework & Library
+<div align="center">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
+</div>
+
+## ☁️ Infra & DevOps
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=Amazon-AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black"/>
+</div>
+
+## 🔧 Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/>
+</div>
+
 
 <h1 align="center">📊 GitHub Stats</h1>
 <div align="center">
